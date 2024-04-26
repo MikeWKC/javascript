@@ -1,2 +1,2 @@
 # javascript
-JS projects
+Dice game using CSS,JS, and HTMl
